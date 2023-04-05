@@ -6,9 +6,9 @@
 * 
 * Name: Samrath Singh Sandhu   Student ID: 168622215   Date: 04-04-2023
 *
-* Cyclic Web App URL: 
+* Cyclic Web App URL: https://weak-rose-jackrabbit-robe.cyclic.app/blog
 *
-* GitHub Repository URL: 
+* GitHub Repository URL: https://github.com/samrath2003/Assignment_5-Samrath
 *
 ********************************************************************************/
 
